@@ -1,0 +1,32 @@
+{
+  "facturas": [
+    {
+      "id": 1,
+      "cliente": "Juan Pérez",
+      "fecha": "2025-05-28",
+      "total": 250.75,
+      "items": [
+        { "descripcion": "Laptop", "cantidad": 1, "precio_unitario": 250.75 }
+      ]
+    },
+    {
+      "id": 2,
+      "cliente": "María Gómez",
+      "fecha": "2025-05-27",
+      "total": 480.00,
+      "items": [
+        { "descripcion": "Monitor", "cantidad": 2, "precio_unitario": 120.00 },
+        { "descripcion": "Teclado", "cantidad": 2, "precio_unitario": 120.00 }
+      ]
+    },
+    {
+      "id": 3,
+      "cliente": "Carlos Ruiz",
+      "fecha": "2025-05-26",
+      "total": 99.99,
+      "items": [
+        { "descripcion": "Mouse inalámbrico", "cantidad": 3, "precio_unitario": 33.33 }
+      ]
+    }
+  ]
+}
