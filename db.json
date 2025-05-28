@@ -6,16 +6,16 @@
       "fecha": "2025-05-28",
       "total": 250.75,
       "descripcion": "Laptop",
-      "cantidad": 1, 
-      "precio_unitario": 250.75 
+      "cantidad": 1,
+      "precio_unitario": 250.75
     },
     {
       "id": 2,
       "cliente": "María Gómez",
       "fecha": "2025-05-27",
       "total": 480.00,
-      "descripcion": "Monitor", 
-      "cantidad": 2, 
+      "descripcion": "Monitor",
+      "cantidad": 2,
       "precio_unitario": 120.00
     },
     {
@@ -23,7 +23,9 @@
       "cliente": "Carlos Ruiz",
       "fecha": "2025-05-26",
       "total": 99.99,
-      "descripcion": "Mouse inalámbrico", 
+      "descripcion": "Mouse inalámbrico",
+      "cantidad": 3,
+      "precio_unitario": 33.33
     }
   ]
 }
