@@ -7,7 +7,7 @@
       "total": 250.75,
       "descripcion": "Laptop",
       "cantidad": 1,
-      "precio_unitario": 250.75
+      "precio_unitario": 25000
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "total": 480.00,
       "descripcion": "Monitor",
       "cantidad": 2,
-      "precio_unitario": 120.00
+      "precio_unitario": 12000
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "total": 99.99,
       "descripcion": "Mouse inalámbrico",
       "cantidad": 3,
-      "precio_unitario": 33.33
+      "precio_unitario": 33000
     }
   ]
 }
